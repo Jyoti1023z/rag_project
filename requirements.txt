@@ -1,0 +1,13 @@
+langchain
+langchain-google-genai
+llama_index
+chromadb
+sentence-transformers
+pypdf
+streamlit
+python-dotenv
+llama_index_embeddings_huggingface
+llama_index_vector_stores_chroma
+llama-index-llms-langchain
+langchain_community
+rouge_score
