@@ -4,6 +4,10 @@ EVAL_QUESTIONS: list[dict[str, str]] = [
 "ground_truth": "Coal supplied under firm and tapering linkage to the power generating company should be apportioned on a pro rata basis to all beneficiaries of the project, and the cost of procurement from alternate sources to meet any shortfall is also to be apportioned proportionally based on power supplied to the beneficiaries."
 },
 {
+"question": "What did the Supreme Court decide regarding the responsibility for additional costs incurred due to shortfall in coal supply in the HPPC vs GMR Kamalanga Energy Ltd (2025) case?",
+"ground_truth": "The Supreme Court held that the additional costs incurred by the power generating company for procuring coal from alternate sources, due to a shortfall in coal supply under the linkage, must be shared proportionally by all project beneficiaries based on the quantum of power supplied to them."
+},
+{
 "question": "In Kiran vs Rajkumar Jivraj Jain (2025), what bar does Section 18 of the SC/ST Act impose on anticipatory bail, and under what condition may a court consider granting it despite this bar?",
 "ground_truth": "Section 18 of the SC/ST Act generally bars the grant of anticipatory bail in cases involving offenses under the Act; however, if on a prima facie reading the allegations do not make out any offense under the Act, the court may exercise discretion to grant anticipatory bail."
 },
